@@ -180,11 +180,7 @@ textarea{
 
      }  
     
-    .ui img{
-    height: 300px;
-    width: 150px;
-    margin-bottom: 50px;
-}
+
 }
 
 
@@ -208,7 +204,7 @@ display: none;
 .ui img{
     height: 300px;
     width: 150px;
-    margin: 50px;
+    margin-bottom: 50px;
 }
 
 .ui div p img{
