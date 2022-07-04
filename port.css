@@ -178,7 +178,13 @@ textarea{
      
         display: none;
 
-     }      
+     }  
+    
+    .ui img{
+    height: 300px;
+    width: 150px;
+    margin-bottom: 50px;
+}
 }
 
 
@@ -202,7 +208,7 @@ display: none;
 .ui img{
     height: 300px;
     width: 150px;
-    margin-buttom: 100px;
+    margin: 50px;
 }
 
 .ui div p img{
